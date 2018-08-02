@@ -1,0 +1,7 @@
+Extra small devices Phones (<768px) (Class names : .visible-xs, hidden-xs)
+
+Small devices Tablets (≥768px) (Class names : .visible-sm, hidden-sm)
+
+Medium devices Desktops (≥992px) (Class names : .visible-md, hidden-md)
+
+Large devices Desktops (≥1200px) (Class names : .visible-lg, hidden-lg)
